@@ -7,7 +7,7 @@ My name is Beatriz Gabriela Colmenares 😋, I'm from Venezuela, living in Colom
 
 ## Skills
 
-* Oracle, Postgresql, Docker, MySQL, Shell Scripting 
+* Postgresql, Docker, MySQL, Shell Scripting 
 * Critical thinking, decision-making and problem solving skills
 * Pentaho, BI Reporting
 
