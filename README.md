@@ -2,7 +2,7 @@
 
 My name is Beatriz Gabriela Colmenares 😋, I'm from Venezuela, living in Colombia since 2018 and I'm a systems engineer.
 
-* Currently working for CONEXIA as a Semi Senior DBA.
+* Currently working for CONEXIA as a DBA.
 * This is my linkedin profile (www.linkedin.com/in/bgabi15)
 
 ## Skills
